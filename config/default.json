@@ -1,8 +1,8 @@
 {
   "MODE": "DEVELOP",
   "PORT-API": "8080",
-  "MONGO_URL": "mongodb://localhost:27017/",
+  "MONGO_URL": "mongodb://localhost:27017/sunshine_waiter",
   "JWT_SECRET": "Default JWT_SECRET value. Please change it in your product environment",
-  "MONGO_INITDB_ROOT_USERNAME": "DEFAULT_ROOT_USERNAME",
-  "MONGO_INITDB_ROOT_PASSWORD": "ROOT_PASSWORD"
+  "MONGO_INITDB_ROOT_USERNAME": "DEFAULT_USERNAME",
+  "MONGO_INITDB_ROOT_PASSWORD": "DEFAULT_PASSWORD"
 }
